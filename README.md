@@ -1,3 +1,2 @@
 This is a UI for Grocery app, it is not connected to anything but showcase many features. 
-
-https://github.com/Vedantgosling/GroceryUI/assets/153468680/b229590c-0b1d-4619-839e-d7fc5bd17eaf
+![Screenshot (95)](https://github.com/Vedantgosling/GroceryUI/assets/153468680/d86d0be7-81df-44fc-93e2-3beb92bf027e)
